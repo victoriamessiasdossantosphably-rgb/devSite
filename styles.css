@@ -35,7 +35,7 @@ nav ul {
 }
 
 nav a {
-   text-decoration: none;
+text-decoration: none;
 color: #444;
 font-weight: 500;
 transition: 0.3s;
